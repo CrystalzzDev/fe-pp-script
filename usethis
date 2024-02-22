@@ -1,2 +1,3 @@
 local user = "" -- PUT UR GODDAMN USER
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalzzDev/fe-pp-script/main/dontusethis"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalzzDev/notif/main/loadstring"))()
